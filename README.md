@@ -40,7 +40,7 @@ Tecnología y sistemas: Uso en data centers para reducción de huella de carbono
 
 Beneficios: Reducción de emisiones, independencia energética, innovación.
 
-Desafíos: Infraestructura, costes, normativa y aceptación del mercado.
+[Desafíos: Infraestructura, costes, normativa y aceptación del mercado.](5.2.md)
 
 Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.
 
