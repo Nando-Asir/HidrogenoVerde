@@ -1,4 +1,4 @@
-# Hidrogeno Verde y Sostenibilidad en Andalucia
+# Hidrógeno Verde y Sostenibilidad en Andalucía
 ## Índice: 
 # 1. Introducción a la sostenibilidad en el sector productivo
 
@@ -10,41 +10,41 @@
 
 # 2. Hidrógeno Verde: Concepto y Producción
 
-2.1. [¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?](2_1.md)
+2.1.[¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?](2_1.md)
 
-[Producción mediante electrólisis del agua con energías renovables.](2_2.md)
+2.2.[Producción mediante electrólisis del agua con energías renovables.](2_2.md)
 
-[Ventajas: No genera CO₂, almacenable y versátil.](2_3.md)
+2.3.[Ventajas: No genera CO₂, almacenable y versátil.](2_3.md)
 
-[Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.](2_4.md)
+2.4.[Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.](2_4.md)
 
-3. Aplicación del Hidrógeno Verde en Andalucía
+# 3. Aplicación del Hidrógeno Verde en Andalucía
 
-Potencial de Andalucía: Energía solar y eólica para la producción.]
+3.1.[Potencial de Andalucía: Energía solar y eólica para la producción.](3_1.md)
 
-Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.
+3.2.[Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.](3_2.md)
 
-Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.
+3.3.[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3_3.md)
 
-4. Usos del Hidrógeno Verde en el sector productivo
+# 4. Usos del Hidrógeno Verde en el sector productivo
 
-Industria: Siderurgia, refinerías y producción de amoníaco.
+4.1.[Industria: Siderurgia, refinerías y producción de amoníaco.](4_1.md)
 
-Transporte: Vehículos de pila de combustible, trenes y barcos.
+4.2.Transporte: Vehículos de pila de combustible, trenes y barcos.
 
-Viviendas: Calefacción y almacenamiento energético.
+4.3.Viviendas: Calefacción y almacenamiento energético.
 
-Tecnología y sistemas: Uso en data centers para reducción de huella de carbono.
+4.4.Tecnología y sistemas: Uso en data centers para reducción de huella de carbono.
 
-5. Oportunidades y retos
+# 5. Oportunidades y retos
 
-Beneficios: Reducción de emisiones, independencia energética, innovación.
+5.1.Beneficios: Reducción de emisiones, independencia energética, innovación.
 
-Desafíos: Infraestructura, costes, normativa y aceptación del mercado.
+5.2.Desafíos: Infraestructura, costes, normativa y aceptación del mercado.
 
-Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.
+5.3.Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.
 
-6. Conclusión y debate
+# 6. Conclusión y debate
 
 ¿Es viable el hidrógeno verde en Andalucía?
 
