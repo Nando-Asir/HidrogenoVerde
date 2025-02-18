@@ -24,7 +24,7 @@ Potencial de Andalucía: Energía solar y eólica para la producción.
 
 Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.
 
-Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.
+[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3.3.md)
 
 4. Usos del Hidrógeno Verde en el sector productivo
 
