@@ -6,21 +6,21 @@
 
 [Importancia de las energías renovables en la transición ecológica.](1_2.md)
 
-[Papel de la Administración de Sistemas Informáticos en Red en la sostenibilidad (eficiencia energética en CPDs, cloud computing, etc.).](1_3.md)
+[Papel de la Administración de Sistemas Informáticos en Red en la sostenibilidad.](1_3.md)
 
 2. Hidrógeno Verde: Concepto y Producción
 
-¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?
+[¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?](2_1.md)
 
-Producción mediante electrólisis del agua con energías renovables.
+[Producción mediante electrólisis del agua con energías renovables.](2_2.md)
 
-Ventajas: No genera CO₂, almacenable y versátil.
+[Ventajas: No genera CO₂, almacenable y versátil.](2_3.md)
 
-Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.
+[Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.](2_4.md)
 
 3. Aplicación del Hidrógeno Verde en Andalucía
 
-Potencial de Andalucía: Energía solar y eólica para la producción.
+Potencial de Andalucía: Energía solar y eólica para la producción.]
 
 Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.
 
