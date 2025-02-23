@@ -46,8 +46,8 @@
 
 # 6. Conclusión y debate
 
-¿Es viable el hidrógeno verde en Andalucía?
+[¿Es viable el hidrógeno verde en Andalucía?](6_1.md)
 
-¿Cómo pueden los futuros administradores de sistemas ayudar en la transición ecológica?
+[¿Cómo pueden los futuros administradores de sistemas ayudar en la transición ecológica?](6_2.md)
 
-Reflexión sobre el impacto de la digitalización en la sostenibilidad.
+[Reflexión sobre el impacto de la digitalización en la sostenibilidad.](6_3.md)
