@@ -24,7 +24,7 @@
 
 3.2.[Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.](3_2.md)
 
-3.3[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3.3.md)
+3.3[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3_3.md)
 
 # 4. Usos del Hidrógeno Verde en el sector productivo
 
