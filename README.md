@@ -44,10 +44,5 @@
 
 5.3.[Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.](5_3.md)
 
-# 6. Conclusión y debate
+# 6. [Conclusión y debate](6.md)
 
-[¿Es viable el hidrógeno verde en Andalucía?](6_1.md)
-
-[¿Cómo pueden los futuros administradores de sistemas ayudar en la transición ecológica?](6_2.md)
-
-[Reflexión sobre el impacto de la digitalización en la sostenibilidad.](6_3.md)
