@@ -24,7 +24,7 @@
 
 3.2.[Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.](3_2.md)
 
-3.3[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3.3.md)
+3.3[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3_3.md)
 
 # 4. Usos del Hidrógeno Verde en el sector productivo
 
@@ -44,10 +44,5 @@
 
 5.3.[Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.](5_3.md)
 
-# 6. Conclusión y debate
+# 6. [Conclusión y debate](6.md)
 
-¿Es viable el hidrógeno verde en Andalucía?
-
-¿Cómo pueden los futuros administradores de sistemas ayudar en la transición ecológica?
-
-Reflexión sobre el impacto de la digitalización en la sostenibilidad.
