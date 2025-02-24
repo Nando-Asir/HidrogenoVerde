@@ -1,41 +1,48 @@
-# Hidrogeno Verde y Sostenibilidad en Andalucia
-## Índice: 
-### 1. Introducción a la sostenibilidad en el sector productivo
-**Rocha**: Definición de sostenibilidad y su impacto en la industria.
+# Hidrógeno Verde y Sostenibilidad en Andalucía
 
-**Miguel**: Importancia de las energías renovables en la transición ecológica.
+# 1. Introducción a la sostenibilidad en el sector productivo
 
-**Fernando**: Papel de la Administración de Sistemas Informáticos en Red en la sostenibilidad (eficiencia energética en CPDs, cloud computing, etc.).
-### 2. Hidrógeno Verde: Concepto y Producción
-**Pablo**: ¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?
+1.1.[Definición de sostenibilidad y su impacto en la industria.](1_1.md)
 
-**Adri**: Producción mediante electrólisis del agua con energías renovables.
+1.2.[Importancia de las energías renovables en la transición ecológica.](1_2.md)
 
-**Marta**: Ventajas: No genera CO₂, almacenable y versátil.
+1.3.[Papel de la Administración de Sistemas Informáticos en Red en la sostenibilidad.](1_3.md)
 
-**Antonio**: Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.
-### 3. Aplicación del Hidrógeno Verde en Andalucía
-**Guille**: Potencial de Andalucía: Energía solar y eólica para la producción.
+# 2. Hidrógeno Verde: Concepto y Producción
 
-**Carmen**: Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.
+2.1.[¿Qué es el hidrógeno verde y en qué se diferencia del gris y azul?](2_1.md)
 
-**Iván Barranco**: Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.
-### 4. Usos del Hidrógeno Verde en el sector productivo
-**Nacho**: Industria: Siderurgia, refinerías y producción de amoníaco.
+2.2.[Producción mediante electrólisis del agua con energías renovables.](2_2.md)
 
-**Ezequiel**: Transporte: Vehículos de pila de combustible, trenes y barcos.
+2.3.[Ventajas: No genera CO₂, almacenable y versátil.](2_3.md)
 
-**Alejandro**: Viviendas: Calefacción y almacenamiento energético.
+2.4.[Inconvenientes: Costes elevados, eficiencia limitada, infraestructura escasa.](2_4.md)
 
-**Manolo**: Tecnología y sistemas: Uso en data centers para reducción de huella de carbono.
-### 5. Oportunidades y retos
-**Manolo**: Beneficios: Reducción de emisiones, independencia energética, innovación.
+# 3. Aplicación del Hidrógeno Verde en Andalucía
 
-**Álvaro**: Desafíos: Infraestructura, costes, normativa y aceptación del mercado.
+3.1.[Potencial de Andalucía: Energía solar y eólica para la producción.](3_1.md)
 
-**Iván Palma**: Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.
+3.2.[Zonas estratégicas: Cádiz, Huelva, Almería, Jaén y Granada.](3_2.md)
 
-### 6. Conclusión y debate
-¿Es viable el hidrógeno verde en Andalucía?
-¿Cómo pueden los futuros administradores de sistemas ayudar en la transición ecológica?
-Reflexión sobre el impacto de la digitalización en la sostenibilidad.
+3.3[Infraestructura necesaria: Plantas de electrólisis, almacenamiento y transporte.](3_3.md)
+
+# 4. Usos del Hidrógeno Verde en el sector productivo
+
+4.1.[Industria: Siderurgia, refinerías y producción de amoníaco.](4_1.md)
+
+4.2.[Transporte: Vehículos de pila de combustible, trenes y barcos.](4_2.md)
+
+4.3.[Viviendas: Calefacción y almacenamiento energético.](4_3.md)
+
+4.4.[Tecnología y sistemas: Uso en data centers para reducción de huella de carbono.](4_4.md)
+
+# 5. Oportunidades y retos
+
+5.1.[Beneficios: Reducción de emisiones, independencia energética, innovación.](5_1.md)
+
+5.2.[Desafíos: Infraestructura, costes, normativa y aceptación del mercado.](5_2.md)
+
+5.3.[Planes en marcha: Corredor del Hidrógeno del Sur, proyectos en Algeciras y Huelva.](5_3.md)
+
+# 6. [Conclusión y debate](6.md)
+
